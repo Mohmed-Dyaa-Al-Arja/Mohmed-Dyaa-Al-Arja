@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=200&section=header&text=Mohamed%20Dyaa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer-in-the-making&descAlignY=60&descSize=20" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=200&section=header&text=Mohamed%20Dyaa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
 
 <a href="https://github.com/Mohmed-Dyaa-Al-Arja"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+student+%40+HTI%2C+Cairo;AI+%26+Data+Science;Building+RAG+and+LLM+applications;Machine+learning+%7C+Deep+learning+%7C+Big+data;Turning+data+into+products" alt="Typing SVG"/></a>
 
@@ -78,6 +78,8 @@ More work: [heart-disease-prediction-app](https://github.com/Mohmed-Dyaa-Al-Arja
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohmed-Dyaa-Al-Arja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohmed-Dyaa-Al-Arja&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohmed-Dyaa-Al-Arja&theme=tokyonight" alt="profile details"/>
+
 <img src="https://streak-stats.demolab.com?user=Mohmed-Dyaa-Al-Arja&theme=tokyonight&hide_border=true" alt="streak"/>
 
 </div>
@@ -102,7 +104,7 @@ More work: [heart-disease-prediction-app](https://github.com/Mohmed-Dyaa-Al-Arja
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mohmed-Dyaa-Al-Arja&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Mohmed-Dyaa-Al-Arja&theme=tokyonight" alt="trophies"/>
 
 </div>
 
