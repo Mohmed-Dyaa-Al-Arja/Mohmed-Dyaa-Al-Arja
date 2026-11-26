@@ -74,7 +74,7 @@ More work: [heart-disease-prediction-app](https://github.com/Mohmed-Dyaa-Al-Arja
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/profile-3d/profile-night-rainbow.svg" alt="3D contributions" width="95%"/>
+<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/city/city.svg" alt="3D contributions" width="95%"/>
 
 </div>
 
