@@ -66,11 +66,7 @@ More work: [heart-disease-prediction-app](https://github.com/Mohmed-Dyaa-Al-Arja
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="49%"/>
-<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most used languages" width="49%"/>
-<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="49%"/>
-<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="49%"/>
-<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="49%"/>
+<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/stats/dashboard.svg" alt="Live GitHub stats dashboard: stars, commits, repos, followers, top languages and contribution trend" width="95%"/>
 
 </div>
 
