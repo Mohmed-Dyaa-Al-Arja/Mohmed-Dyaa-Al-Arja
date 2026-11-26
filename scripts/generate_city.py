@@ -64,7 +64,7 @@ LEVELS = ["#1e3a5f", "#0ea5e9", "#22d3ee", "#a78bfa", "#f472b6"]
 
 
 def build(data):
-    weeks = data["weeks"]
+    weeks = data["weeks"][-30:]
     grid = [[d["contributionCount"] for d in w["contributionDays"]] for w in weeks]
     n_w = len(grid)
     flat = [c for col in grid for c in col]
@@ -92,7 +92,7 @@ def build(data):
             break
     active_days = len(nz)
 
-    TW, TH, MAXH = 24, 12, 90
+    TW, TH, MAXH = 24, 12, 100
     W, H = 840, 540
     ox = 0
     oy = 0
@@ -121,7 +121,7 @@ def build(data):
     a('</g>')
     a(f'<rect x="2" y="2" width="{W - 4}" height="{H - 4}" rx="22" fill="none" stroke="url(#bd)" stroke-width="2" opacity="0.85"/>')
     a('<text x="44" y="56" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#e6edf3" letter-spacing="2">CONTRIBUTION CITY</text>')
-    a('<text x="44" y="80" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b9bb4">every building is one day. taller means more contributions. last 12 months.</text>')
+    a('<text x="44" y="80" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b9bb4">every building is one day. taller means more contributions. last 30 weeks.</text>')
 
     minx, _ = proj(-0.5, 6.5)
     maxx, _ = proj(n_w - 0.5, -0.5)
@@ -153,7 +153,7 @@ def build(data):
         if c == 0:
             a(f'<polygon points="{x:.1f},{y - hh:.1f} {x + hw:.1f},{y:.1f} {x:.1f},{y + hh:.1f} {x - hw:.1f},{y:.1f}" fill="#16213f" opacity="0.9"/>')
             continue
-        h = 6 + (c / peak) * MAXH
+        h = 10 + ((c / peak) ** 0.6) * MAXH
         top = f"{x:.1f},{y - hh - h:.1f} {x + hw:.1f},{y - h:.1f} {x:.1f},{y + hh - h:.1f} {x - hw:.1f},{y - h:.1f}"
         left = f"{x - hw:.1f},{y - h:.1f} {x:.1f},{y + hh - h:.1f} {x:.1f},{y + hh:.1f} {x - hw:.1f},{y:.1f}"
         right = f"{x:.1f},{y + hh - h:.1f} {x + hw:.1f},{y - h:.1f} {x + hw:.1f},{y:.1f} {x:.1f},{y + hh:.1f}"
@@ -167,7 +167,7 @@ def build(data):
 
     a('</g>')
     # stat chips
-    chips = [("TOTAL", f"{data['total']:,}", "#22d3ee"), ("ACTIVE DAYS", str(active_days), "#a78bfa"),
+    chips = [("TOTAL · 1 YEAR", f"{data['total']:,}", "#22d3ee"), ("ACTIVE DAYS", str(active_days), "#a78bfa"),
              ("LONGEST STREAK", f"{longest} d", "#f472b6"), ("CURRENT STREAK", f"{cur} d", "#34d399"), ("BEST DAY", str(peak), "#fbbf24")]
     cw, gap, cy = 148, 10, H - 72
     for k, (lab, val, col) in enumerate(chips):
