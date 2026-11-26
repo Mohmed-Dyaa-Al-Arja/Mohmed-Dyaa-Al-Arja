@@ -31,15 +31,18 @@ I build machine learning and AI applications, from classical models and forecast
 
 ## Featured projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [TERYaq](https://github.com/Mohmed-Dyaa-Al-Arja/TERYaq) | Multimodal clinical RAG for breast cancer: retrieval, visual evidence, reranking and safety checks | Python, RAG, LLMs |
-| [rag-document-assistant](https://github.com/Mohmed-Dyaa-Al-Arja/rag-document-assistant) | Document Q&A with source citation and conversation memory | FastAPI, FAISS, LangChain, Gemini/Ollama |
-| [Smart-Vehicle-Identifier](https://github.com/Mohmed-Dyaa-Al-Arja/Smart-Vehicle-Identifier) | AI vehicle recognition system built in the NTI Applied AI Engineering program | Python, Computer Vision |
-| [sales-forecasting-project](https://github.com/Mohmed-Dyaa-Al-Arja/sales-forecasting-project) | End-to-end sales forecasting with notebooks, presentations and deployment files | Python, ML |
-| [RocketLeague_AI_Project](https://github.com/Mohmed-Dyaa-Al-Arja/RocketLeague_AI_Project) | Rocket League bot combining search algorithms and reinforcement learning | Python, RL |
-| [Image-Processing-Effects](https://github.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja-Image-Processing-Effects) | OpenCV filters and effects with a Dash web app | OpenCV, Dash |
-| [breast-cancer-diagnosis-app](https://github.com/Mohmed-Dyaa-Al-Arja/breast-cancer-diagnosis-app) | Streamlit diagnosis app with a Decision Tree classifier | Streamlit, scikit-learn |
+<div align="center">
+
+<a href="https://github.com/Mohmed-Dyaa-Al-Arja/TERYaq"><img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/cards/teryaq.svg" alt="TERYaq" width="23%"/></a>
+<a href="https://github.com/Mohmed-Dyaa-Al-Arja/rag-document-assistant"><img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/cards/rag-assistant.svg" alt="RAG Document Assistant" width="23%"/></a>
+<a href="https://github.com/Mohmed-Dyaa-Al-Arja/Smart-Vehicle-Identifier"><img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/cards/vehicle-identifier.svg" alt="Smart Vehicle Identifier" width="23%"/></a>
+<a href="https://github.com/Mohmed-Dyaa-Al-Arja/sales-forecasting-project"><img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/cards/sales-forecasting.svg" alt="Sales Forecasting" width="23%"/></a>
+<a href="https://github.com/Mohmed-Dyaa-Al-Arja/RocketLeague_AI_Project"><img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/cards/rocket-league-ai.svg" alt="Rocket League AI" width="23%"/></a>
+<a href="https://github.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja-Image-Processing-Effects"><img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/cards/image-effects.svg" alt="Image Processing Effects" width="23%"/></a>
+<a href="https://github.com/Mohmed-Dyaa-Al-Arja/breast-cancer-diagnosis-app"><img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/cards/breast-cancer-app.svg" alt="Breast Cancer Diagnosis" width="23%"/></a>
+<a href="https://github.com/Mohmed-Dyaa-Al-Arja?tab=repositories"><img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/cards/more.svg" alt="More projects" width="23%"/></a>
+
+</div>
 
 More work: [heart-disease-prediction-app](https://github.com/Mohmed-Dyaa-Al-Arja/heart-disease-prediction-app), [loan-approval-prediction](https://github.com/Mohmed-Dyaa-Al-Arja/loan-approval-prediction), [Forest-Cover-Type-](https://github.com/Mohmed-Dyaa-Al-Arja/Forest-Cover-Type-), [music-genre-classification](https://github.com/Mohmed-Dyaa-Al-Arja/music-genre-classification), [tictactoe-ai-search-algorithms](https://github.com/Mohmed-Dyaa-Al-Arja/tictactoe-ai-search-algorithms).
 
@@ -70,11 +73,11 @@ More work: [heart-disease-prediction-app](https://github.com/Mohmed-Dyaa-Al-Arja
 
 </div>
 
-## 3D contribution city
+## Activity skyline
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/city/city.svg" alt="3D contributions" width="95%"/>
+<img src="https://raw.githubusercontent.com/Mohmed-Dyaa-Al-Arja/Mohmed-Dyaa-Al-Arja/main/assets/city/city.svg" alt="Weekly activity skyline: one 3D bar per week, taller means more contributions" width="95%"/>
 
 </div>
 
