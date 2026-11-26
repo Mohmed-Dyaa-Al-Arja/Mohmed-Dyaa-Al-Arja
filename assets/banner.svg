@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A66C2"><animate attributeName="stop-color" values="#0A66C2;#7C3AED;#0A66C2" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#0A66C2;#7C3AED" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+  </defs>
+  <rect width="850" height="220" rx="16" fill="url(#g)"/>
+  <circle cx="90" cy="40" r="4" fill="#fff" opacity="0.5"><animate attributeName="cy" values="40;180;40" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="400" cy="190" r="3" fill="#fff" opacity="0.4"><animate attributeName="cy" values="190;30;190" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="760" cy="60" r="5" fill="#fff" opacity="0.4"><animate attributeName="cy" values="60;170;60" dur="5s" repeatCount="indefinite"/></circle>
+  <text x="425" y="95" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="52" font-weight="bold" fill="#fff">Mohamed Dyaa
+    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/></text>
+  <g font-family="Verdana, Arial, sans-serif" font-size="22" fill="#E0E7FF" text-anchor="middle">
+    <text x="425" y="150" opacity="0">Computer Science student @ HTI, Cairo
+      <animate attributeName="opacity" values="0;1;1;0;0;0;0;0" keyTimes="0;0.04;0.22;0.25;0.5;0.75;0.9;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="425" y="150" opacity="0">AI &amp; Data Science
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.25;0.29;0.47;0.5;0.75;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="425" y="150" opacity="0">Building RAG and LLM applications
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.54;0.72;0.75;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="425" y="150" opacity="0">Machine learning | Deep learning | Big data
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.79;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+  </g>
+  <rect x="325" y="172" width="200" height="3" rx="1.5" fill="#fff" opacity="0.7"><animate attributeName="width" values="0;200;0" dur="4s" repeatCount="indefinite"/><animate attributeName="x" values="425;325;425" dur="4s" repeatCount="indefinite"/></rect>
+</svg>
