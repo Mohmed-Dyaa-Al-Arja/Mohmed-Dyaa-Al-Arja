@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 360" width="260" height="360" role="img" aria-label="More projects project card">
+<defs><linearGradient id="c7bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1326"/><stop offset="1" stop-color="#1a1236"/></linearGradient><linearGradient id="c7bd" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="360"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/><animateTransform attributeName="gradientTransform" type="rotate" from="0 130.0 180.0" to="360 130.0 180.0" dur="6s" repeatCount="indefinite"/></linearGradient><radialGradient id="c7orb" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.55"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient><linearGradient id="c7sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="c7cl"><rect x="3" y="3" width="254" height="354" rx="18"/></clipPath></defs>
+<rect x="3" y="3" width="254" height="354" rx="18" fill="url(#c7bg)"/>
+<g clip-path="url(#c7cl)">
+<ellipse cx="130" cy="98" rx="120" ry="80" fill="url(#c7orb)"><animate attributeName="ry" values="70;90;70" dur="5s" repeatCount="indefinite"/></ellipse>
+<circle cx="40" cy="60" r="1.4" fill="#fff" opacity="0.2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="215" cy="48" r="1.4" fill="#fff" opacity="0.2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.0999999999999996s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="130" r="1.4" fill="#fff" opacity="0.2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.8s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="30" cy="140" r="1.4" fill="#fff" opacity="0.2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.5s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+<circle cx="150" cy="40" r="1.4" fill="#fff" opacity="0.2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5.199999999999999s" begin="1.6s" repeatCount="indefinite"/></circle>
+<polygon points="130.0,56.0 166.4,77.0 166.4,119.0 130.0,140.0 93.6,119.0 93.6,77.0" fill="#0a0f20" stroke="url(#c7bd)" stroke-width="2.5"/>
+<polygon points="130.0,44.0 176.8,71.0 176.8,125.0 130.0,152.0 83.2,125.0 83.2,71.0" fill="none" stroke="#a78bfa" stroke-width="1" opacity="0.5"><animate attributeName="opacity" values="0.15;0.7;0.15" dur="3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="rotate" from="0 130 98" to="360 130 98" dur="24s" repeatCount="indefinite"/></polygon>
+<text x="130" y="109" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#22d3ee" text-anchor="middle">+<animate attributeName="fill" values="#22d3ee;#a78bfa;#22d3ee" dur="5s" repeatCount="indefinite"/></text>
+<text x="22" y="40" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#22d3ee">+</text>
+<polygon points="28,48 34,56 28,64 22,56" fill="#a78bfa"/>
+<g transform="rotate(180 232 312)"><text x="232" y="320" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#22d3ee" text-anchor="middle" opacity="0.0">+</text></g>
+<text x="130.0" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9" text-anchor="middle">More projects</text>
+<line x1="70" y1="190" x2="190" y2="190" stroke="url(#c7bd)" stroke-width="1.5" opacity="0.8"/>
+<text x="130.0" y="208" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#a9b6cc" text-anchor="middle">Heart disease, loan</text>
+<text x="130.0" y="224" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#a9b6cc" text-anchor="middle">approval, forest cover,</text>
+<text x="130.0" y="240" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#a9b6cc" text-anchor="middle">music genres and more</text>
+<rect x="60.0" y="292" width="32" height="22" rx="11" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-opacity="0.6"/>
+<text x="76.0" y="307" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#e2e8f0" text-anchor="middle">ML</text>
+<rect x="98.0" y="292" width="102" height="22" rx="11" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-opacity="0.6"/>
+<text x="149.0" y="307" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#e2e8f0" text-anchor="middle">Data Science</text>
+<line x1="24" y1="326" x2="236" y2="326" stroke="#2a3a66"/>
+<text x="234" y="352" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#22d3ee" text-anchor="end">VIEW REPO  →<animate attributeName="opacity" values="1;0.55;1" dur="2.6s" repeatCount="indefinite"/></text>
+<g opacity="1"><rect x="-120" y="-20" width="70" height="400" fill="url(#c7sh)" transform="rotate(18 0 0)"><animate attributeName="x" values="-120;340;340" keyTimes="0;0.35;1" dur="7s" begin="4.2s" repeatCount="indefinite"/></rect></g>
+</g>
+<rect x="3" y="3" width="254" height="354" rx="18" fill="none" stroke="url(#c7bd)" stroke-width="3"/>
+</svg>
