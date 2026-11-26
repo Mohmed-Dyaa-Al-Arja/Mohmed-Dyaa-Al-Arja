@@ -1,0 +1,38 @@
+name: Generate 3D contribution city
+
+on:
+  schedule:
+    - cron: "41 */12 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/generate_city.py
+      - .github/workflows/city-3d.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build the city SVG
+        run: python3 scripts/generate_city.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit the result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/city/city.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update 3D contribution city"
+            git pull --rebase origin main
+            git push
+          fi
