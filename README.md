@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=200&section=header&text=Mohamed%20Dyaa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=20" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=180&section=header&text=Mohamed%20Dyaa&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
 
 <a href="https://github.com/Mohmed-Dyaa-Al-Arja"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+student+%40+HTI%2C+Cairo;AI+%26+Data+Science;Building+RAG+and+LLM+applications;Machine+learning+%7C+Deep+learning+%7C+Big+data" alt="Typing SVG"/></a>
 
